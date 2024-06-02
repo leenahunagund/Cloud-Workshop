@@ -1,0 +1,8 @@
+1.echo "hi hello world" >a.txt
+2.cat a.txt
+3.openssl aes-256-cbc -in a.txt -out b.enc
+4.type the password
+5.cat b.enc
+6.openssl aes-256-cbc -d -in b.enc -out c.txt
+7. password
+8.cat c.txt

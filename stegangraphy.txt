@@ -1,0 +1,6 @@
+1.sudo apt install steghide -y
+2.echo "confidential" >./secret.txt
+3.cat secret.txt
+4.steghide embed -cf index.jpg -ef secret.txt
+5.passphrase
+7.steghide info index.jpg
