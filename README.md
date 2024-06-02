@@ -1,6 +1,6 @@
 ## Utilizing e services of popular cloud service providers in industry
 ### 2 day workshop
-
+#### 30-31st May 2024
 <ul>
   <li>Day-1: Setting up a server with Burp Suite Community Edition, XAMPP Control Panel,
   Checking CVE security vulnerabilites of different OS, Check total attacks in products,
